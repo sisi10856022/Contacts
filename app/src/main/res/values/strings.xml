@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">通訊錄</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">姓名</string>
+    <string name="phone">電話</string>
+    <string name="call">撥打</string>
+    <string name="delete">刪除</string>
+    <string name="save">儲存</string>
+    <string name="edit_icon">Edit Icon</string>
+    <string name="contacts">聯絡人</string>
+    <string name="add_contact">新增</string>
+</resources>
